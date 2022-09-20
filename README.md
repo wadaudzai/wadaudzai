@@ -44,3 +44,6 @@ These are the languages and frameworks that I am confident in.
 
 ## Profile Visits
 ![](https://komarev.com/ghpvc/?username=wadaudzai&style=for-the-badge)
+
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadaudzai)](https://github.com/anuraghazra/github-readme-stats)
