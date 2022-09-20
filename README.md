@@ -9,15 +9,15 @@ Nice to meet you! I'm working on to become a full-stack developer and I'm curren
 ## My social media 
 
 <a href="https://github.com/wadaudzai">
-  <img width="32" align="left"
+  <img 
      alt="Github"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+     src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
 </a>
 
 <a href="https://www.linkedin.com/in/abdulrahman-daudzai-490421234/">
   <img width="32" align="left"
      alt="Linkedin"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+     src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px">
 </a>
 <a href="https://twitter.com/wadaudzai">
   <img
