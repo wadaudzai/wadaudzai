@@ -34,3 +34,5 @@ These are the languages and frameworks that I am confident in.
 </div>
 
 [![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadaudzai)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=wadaudzai)
