@@ -15,7 +15,7 @@ Nice to meet you! I'm working on to become a full-stack developer and I'm curren
 </a>
 
 <a href="https://www.linkedin.com/in/abdulrahman-daudzai-490421234/">
-  <img width="32" align="left"
+  <img
      alt="Linkedin"
      src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px">
 </a>
