@@ -20,7 +20,7 @@ Nice to meet you! I'm working on to become a full-stack developer and I'm curren
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://twitter.com/wadaudzai">
-  <img width="32" align="left"
+  <img
      alt="Twitter"
      src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
 </a>
