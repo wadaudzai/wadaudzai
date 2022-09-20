@@ -5,7 +5,6 @@ Nice to meet you! I'm working on to become a full-stack developer and I'm curren
 ## Portfolio 
 
 <a href="https://wadaudzai.github.io/Portfolio-setup-and-mobile-version-skeleton/">My Portfolio</a>
-<hr>
 
 ## My social media 
 
@@ -25,7 +24,6 @@ Nice to meet you! I'm working on to become a full-stack developer and I'm curren
      src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
 </a>
 <br>
-<hr>
 
 ## Skill Set
 These are the languages and frameworks that I am confident in.
