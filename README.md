@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 ### Hi there Abdulrahman Daudzai here👋
 
 Nice to meet you! I'm working on to become a full-stack developer and I'm currently studying in [Microverse](https://www.microverse.org).
@@ -33,6 +38,9 @@ These are the languages and frameworks that I am confident in.
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
+## My Github Stats
 [![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadaudzai)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Profile Visits
 ![](https://komarev.com/ghpvc/?username=wadaudzai&style=for-the-badge)
